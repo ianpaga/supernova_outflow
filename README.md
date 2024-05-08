@@ -25,8 +25,8 @@ my results and those reported in that paper.
 
 Results from the notebook:
 
-<img width="360" alt="plot2" src="https://github.com/ianpaga/supernova_outflow/assets/57350668/495b2acf-04c3-48fa-aa2b-e3560ce92382">
 <img width="360" alt="plot1" src="https://github.com/ianpaga/supernova_outflow/assets/57350668/43656cc3-f7b0-4e07-b592-1ce860b70921">
+<img width="360" alt="plot2" src="https://github.com/ianpaga/supernova_outflow/assets/57350668/495b2acf-04c3-48fa-aa2b-e3560ce92382">
 
 ## Requirements
 
